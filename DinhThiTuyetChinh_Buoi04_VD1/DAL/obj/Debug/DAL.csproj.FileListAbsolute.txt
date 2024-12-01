@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\2001215640_DinhThiTuyetChinh_Buoi04\DinhThiTuyetChinh_Buoi04\DAL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\2001215640_DinhThiTuyetChinh_Buoi04\DinhThiTuyetChinh_Buoi04\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\2001215640_DinhThiTuyetChinh_Buoi04\DinhThiTuyetChinh_Buoi04\DAL\obj\Debug\DAL.dll
+C:\Users\Administrator\Desktop\2001215640_DinhThiTuyetChinh_Buoi04\DinhThiTuyetChinh_Buoi04\DAL\obj\Debug\DAL.pdb
